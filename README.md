@@ -26,6 +26,7 @@
         </samp>
 </h3>
 
+<img align="center" height="150" src="https://i.pinimg.com/originals/1a/5b/2a/1a5b2a56b3bcfaa1daca934e152aa3f4.gif"  />
 
 <p align="center"> 
   <samp>
@@ -59,10 +60,14 @@
 </p>
 <br />
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albaaaaaa&theme=midnight-purple&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albaaaaaa&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+</div>
+
 <!-- About Section -->
  # About me
  
-<img align="right" height="150" src="https://i.pinimg.com/originals/1a/5b/2a/1a5b2a56b3bcfaa1daca934e152aa3f4.gif"  />
 
 ###
 
@@ -105,4 +110,12 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
 </div>
 
-###
+<br>
+<br>
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Albaaaaaa&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" alt="Github Contributor Stats">
+</p>
+
+
