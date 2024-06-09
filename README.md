@@ -22,7 +22,7 @@
   <samp>
     <a href="#">「 2211102441104 」</a>
     <br>
-    「 University Muhammadiyah Kalimantan Timur<b>Science and Technology Study Program, Department of Informatics Engineering</b> 」
+    「 University Muhammadiyah Kalimantan Timur<b>  Science and Technology Study Program, Department of Informatics Engineering</b> 」
     <br>
     <br>
   </samp>
