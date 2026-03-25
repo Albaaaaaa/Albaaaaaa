@@ -21,7 +21,7 @@
   <a href="PASTE_LINKEDIN_HERE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="PASTE_INSTAGRAM_HERE" target="_blank">
+  <a href="https://www.instagram.com/lil.albaa/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 </p>
