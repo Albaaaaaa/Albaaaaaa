@@ -85,4 +85,3 @@
 
 - Telegram: [@Cihuyysy](https://t.me/Cihuyysy)
 - Website: [albapedia.my.id](https://albapedia.my.id/)
-- Email: `PASTE_EMAIL_HERE`
