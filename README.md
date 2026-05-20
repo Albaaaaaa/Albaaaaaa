@@ -18,7 +18,7 @@
   <a href="https://t.me/Cihuyysy" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
   </a>
-  <a href="PASTE_LINKEDIN_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/muh-ulil-albab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/lil.albaa/" target="_blank">
